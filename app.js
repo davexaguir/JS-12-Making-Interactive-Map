@@ -58,7 +58,7 @@ async function getFoursquare(business) {
 		method: 'GET',
 		headers: {
 		Accept: 'application/json',
-        Authorization:'fsq3+Rc/5E8cNSKCYW4v77SNM2nIgRKqLXaSambM8yspXy4='
+        Authorization:'Api Key'
 		}
 	}
 	let limit = 5
